@@ -1,0 +1,31 @@
+webpackHotUpdate("static\\development\\pages\\_app.js",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./styles/global.css":
+/*!******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-5-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./styles/global.css ***!
+  \******************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, "/* Error: Expected identifier.\n *     ,\n * 111 |         border: 1px solid $;\r\n *     |                            ^\n *     '\n *   global.scss 111:28  root stylesheet */\n\nbody::before {\n  font-family: \"Source Code Pro\", \"SF Mono\", Monaco, Inconsolata, \"Fira Mono\",\n      \"Droid Sans Mono\", monospace, monospace;\n  white-space: pre;\n  display: block;\n  padding: 1em;\n  margin-bottom: 1em;\n  border-bottom: 2px solid black;\n  content: \"Error: Expected identifier.\\a     \\2577 \\a 111 \\2502          border: 1px solid $;\\d\\a     \\2502                             ^\\a     \\2575 \\a   global.scss 111:28  root stylesheet\";\n}\n", "",{"version":3,"sources":["F:/Users/Draco Dormiens/Desktop/Destruck/Web/NextJs/practica/styles/global.css"],"names":[],"mappings":"AAAA;;;;;0CAK0C;;AAE1C;EACE;6CAC2C;EAC3C,gBAAgB;EAChB,cAAc;EACd,YAAY;EACZ,kBAAkB;EAClB,8BAA8B;EAC9B,8LAA8L;AAChM","file":"global.css","sourcesContent":["/* Error: Expected identifier.\n *     ,\n * 111 |         border: 1px solid $;\r\n *     |                            ^\n *     '\n *   global.scss 111:28  root stylesheet */\n\nbody::before {\n  font-family: \"Source Code Pro\", \"SF Mono\", Monaco, Inconsolata, \"Fira Mono\",\n      \"Droid Sans Mono\", monospace, monospace;\n  white-space: pre;\n  display: block;\n  padding: 1em;\n  margin-bottom: 1em;\n  border-bottom: 2px solid black;\n  content: \"Error: Expected identifier.\\a     \\2577 \\a 111 \\2502          border: 1px solid $;\\d\\a     \\2502                             ^\\a     \\2575 \\a   global.scss 111:28  root stylesheet\";\n}\n"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/getUrl.js":
+false,
+
+/***/ "./styles/fuentes/Overlock/Overlock-Bold.ttf":
+false,
+
+/***/ "./styles/fuentes/Overlock/Overlock-Regular.ttf":
+false
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zdHlsZXMvZ2xvYmFsLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBQTtBQUNBLGtDQUFrQyxtQkFBTyxDQUFDLHFHQUFnRDtBQUMxRjtBQUNBO0FBQ0EsY0FBYyxRQUFTLGtGQUFrRixrSEFBa0gsd0lBQXdJLHFCQUFxQixtQkFBbUIsaUJBQWlCLHVCQUF1QixtQ0FBbUMscUdBQXFHLDBHQUEwRyxHQUFHLFNBQVMseUlBQXlJLFFBQVEsTUFBTSxLQUFLLE9BQU8sYUFBYSxXQUFXLFVBQVUsWUFBWSxhQUFhLGFBQWEsNkhBQTZILGtIQUFrSCx3SUFBd0kscUJBQXFCLG1CQUFtQixpQkFBaUIsdUJBQXVCLG1DQUFtQyxxR0FBcUcsMEdBQTBHLEdBQUcsS0FBSztBQUM3bEQ7QUFDQSIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9zdGF0aWNcXGRldmVsb3BtZW50XFxwYWdlc1xcX2FwcC5qcy43MTdhMDljYTFhZjFhMWUwNjAwNy5ob3QtdXBkYXRlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gSW1wb3J0c1xudmFyIF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyA9IHJlcXVpcmUoXCIuLi9ub2RlX21vZHVsZXMvY3NzLWxvYWRlci9kaXN0L3J1bnRpbWUvYXBpLmpzXCIpO1xuZXhwb3J0cyA9IF9fX0NTU19MT0FERVJfQVBJX0lNUE9SVF9fXyh0cnVlKTtcbi8vIE1vZHVsZVxuZXhwb3J0cy5wdXNoKFttb2R1bGUuaWQsIFwiLyogRXJyb3I6IEV4cGVjdGVkIGlkZW50aWZpZXIuXFxuICogICAgICxcXG4gKiAxMTEgfCAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICQ7XFxyXFxuICogICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgXlxcbiAqICAgICAnXFxuICogICBnbG9iYWwuc2NzcyAxMTE6MjggIHJvb3Qgc3R5bGVzaGVldCAqL1xcblxcbmJvZHk6OmJlZm9yZSB7XFxuICBmb250LWZhbWlseTogXFxcIlNvdXJjZSBDb2RlIFByb1xcXCIsIFxcXCJTRiBNb25vXFxcIiwgTW9uYWNvLCBJbmNvbnNvbGF0YSwgXFxcIkZpcmEgTW9ub1xcXCIsXFxuICAgICAgXFxcIkRyb2lkIFNhbnMgTW9ub1xcXCIsIG1vbm9zcGFjZSwgbW9ub3NwYWNlO1xcbiAgd2hpdGUtc3BhY2U6IHByZTtcXG4gIGRpc3BsYXk6IGJsb2NrO1xcbiAgcGFkZGluZzogMWVtO1xcbiAgbWFyZ2luLWJvdHRvbTogMWVtO1xcbiAgYm9yZGVyLWJvdHRvbTogMnB4IHNvbGlkIGJsYWNrO1xcbiAgY29udGVudDogXFxcIkVycm9yOiBFeHBlY3RlZCBpZGVudGlmaWVyLlxcXFxhICAgICBcXFxcMjU3NyBcXFxcYSAxMTEgXFxcXDI1MDIgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgJDtcXFxcZFxcXFxhICAgICBcXFxcMjUwMiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXlxcXFxhICAgICBcXFxcMjU3NSBcXFxcYSAgIGdsb2JhbC5zY3NzIDExMToyOCAgcm9vdCBzdHlsZXNoZWV0XFxcIjtcXG59XFxuXCIsIFwiXCIse1widmVyc2lvblwiOjMsXCJzb3VyY2VzXCI6W1wiRjovVXNlcnMvRHJhY28gRG9ybWllbnMvRGVza3RvcC9EZXN0cnVjay9XZWIvTmV4dEpzL3ByYWN0aWNhL3N0eWxlcy9nbG9iYWwuY3NzXCJdLFwibmFtZXNcIjpbXSxcIm1hcHBpbmdzXCI6XCJBQUFBOzs7OzswQ0FLMEM7O0FBRTFDO0VBQ0U7NkNBQzJDO0VBQzNDLGdCQUFnQjtFQUNoQixjQUFjO0VBQ2QsWUFBWTtFQUNaLGtCQUFrQjtFQUNsQiw4QkFBOEI7RUFDOUIsOExBQThMO0FBQ2hNXCIsXCJmaWxlXCI6XCJnbG9iYWwuY3NzXCIsXCJzb3VyY2VzQ29udGVudFwiOltcIi8qIEVycm9yOiBFeHBlY3RlZCBpZGVudGlmaWVyLlxcbiAqICAgICAsXFxuICogMTExIHwgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAkO1xcclxcbiAqICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF5cXG4gKiAgICAgJ1xcbiAqICAgZ2xvYmFsLnNjc3MgMTExOjI4ICByb290IHN0eWxlc2hlZXQgKi9cXG5cXG5ib2R5OjpiZWZvcmUge1xcbiAgZm9udC1mYW1pbHk6IFxcXCJTb3VyY2UgQ29kZSBQcm9cXFwiLCBcXFwiU0YgTW9ub1xcXCIsIE1vbmFjbywgSW5jb25zb2xhdGEsIFxcXCJGaXJhIE1vbm9cXFwiLFxcbiAgICAgIFxcXCJEcm9pZCBTYW5zIE1vbm9cXFwiLCBtb25vc3BhY2UsIG1vbm9zcGFjZTtcXG4gIHdoaXRlLXNwYWNlOiBwcmU7XFxuICBkaXNwbGF5OiBibG9jaztcXG4gIHBhZGRpbmc6IDFlbTtcXG4gIG1hcmdpbi1ib3R0b206IDFlbTtcXG4gIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCBibGFjaztcXG4gIGNvbnRlbnQ6IFxcXCJFcnJvcjogRXhwZWN0ZWQgaWRlbnRpZmllci5cXFxcYSAgICAgXFxcXDI1NzcgXFxcXGEgMTExIFxcXFwyNTAyICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICQ7XFxcXGRcXFxcYSAgICAgXFxcXDI1MDIgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF5cXFxcYSAgICAgXFxcXDI1NzUgXFxcXGEgICBnbG9iYWwuc2NzcyAxMTE6MjggIHJvb3Qgc3R5bGVzaGVldFxcXCI7XFxufVxcblwiXX1dKTtcbi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0gZXhwb3J0cztcbiJdLCJzb3VyY2VSb290IjoiIn0=
